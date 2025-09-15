@@ -19,4 +19,4 @@
 	4) stim: Contains stimuli for the main experiment
 	5) stim_loc: Contains stimuli for the localizer
 
-Note: For the stimuli, we have only included the directory structure here. You can either add your own images following the category structure or contact emcdevitt@princeton.edu to request access to the stimuli used in this experiment.
+Note: For the stimuli, we have only included the directory structure here. You can either add your own images following the category structure or contact emcdevitt[at]princeton.edu to request access to the stimuli used in this experiment.
